@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aphexripper.github.io/barkinengin.com/sitemap.xml
+Sitemap: https://aphexripper.github.io//sitemap.xml
