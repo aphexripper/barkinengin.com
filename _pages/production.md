@@ -1,12 +1,10 @@
 ---
 layout: page
 permalink: /production/
-title: Selected Works
+title: selected works
 nav: true
 nav_order: 3
 ---
-
-# Selected Works
 
 Works indicated with \* are collaborations with Metin Bozkurt and/or Burak Tamer.
 

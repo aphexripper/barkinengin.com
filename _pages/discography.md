@@ -1,11 +1,10 @@
 ---
 layout: page
 permalink: /discography/
-title: Discography
+title: discography
 nav: true
 nav_order: 2
 ---
-# Discography
 
 **Solo Works** - [www.soundcloud.com/barkin-engin](http://www.soundcloud.com/barkin-engin)
 

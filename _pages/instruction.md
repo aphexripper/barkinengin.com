@@ -1,13 +1,11 @@
 ---
 layout: page
 permalink: /instruction/
-title: Instruction
+title: instruction
 description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 4
 ---
-
-# Instruction
 
 ### August 2022 - Present
 
