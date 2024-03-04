@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /production/
-title: selected works
+title: Selected Works
 nav: true
 nav_order: 3
 ---

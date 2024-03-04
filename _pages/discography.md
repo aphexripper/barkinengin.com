@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /discography/
-title: discography
+title: Discography
 nav: true
 nav_order: 2
 ---
